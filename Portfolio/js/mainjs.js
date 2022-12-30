@@ -1,0 +1,1 @@
+gsap.fromTo("#profilo", {x:-1900}, {x:-4, duration: 3});
